@@ -15,7 +15,7 @@
 }
 
 .alert-dismissible {
-  padding-right: 4.5rem;
+  padding-right: 2.5rem;
 }
 
 .alert-dismissible .close {
@@ -26,47 +26,57 @@
   color: inherit;
 }
 
-.alert-vlue {
-  background-color: #86bdf8;
-  border-color: #86bdf8;
+
+/* bbargang */
+.alert-bbargang {
+  background-color:#9e1f1f;
+  border-color:#e745b7;
 }
 
-.alert-vlue hr {
-  border-top-color: led(#86bdf8, 5%);
+.alert-bbargang hr {
+  border-top-color: led(#9e1f1f, 20%);
 }
 
-.alert-furfle {
+
+/* bora */
+.alert-bora {
   background-color: #852985;
-  border-color: #852985;
+  border-color: #d19ad1;
 }
 
-.alert-furfle hr {
-  border-top-color: led(#852985, 5%);
+.alert-bora hr {
+  border-top-color: led(#852985, 20%);
 }
 
-.alert-led {
-  background-color: #f16d6d;
-  border-color: #f16d6d;
+
+/* chorok */
+.alert-chorok {
+  background-color: #01f57b;
+  border-color: #77b875;
 }
 
-.alert-led hr {
-  border-top-color: led(#f16d6d, 5%);
+.alert-chorok hr {
+  border-top-color: led(#f16d6d, 20%);
 }
 
-.alert-wellow {
+
+/* norang */
+.alert-norang {
   background-color: #f5f542;
-  border-color: #f5f542;
+  border-color: #dddd9f;
 }
 
-.alert-wellow hr {
-  border-top-color: led(#f5f542, 5%);
+.alert-norang hr {
+  border-top-color: led(#f5f542, 20%);
 }
 
-.alert-kreen {
-  background-color: #9df39d;
-  border-color: #9df39d;
+
+/* gamjung */
+.alert-hoesaek  {
+  background-color: #676b67;
+  border-color: #000000;
 }
 
-.alert-kreen hr {
-  border-top-color: led(#9df39d, 5%);
+.alert-hoesaek  hr {
+  border-top-color: led(#676b67, 20%);
 }
